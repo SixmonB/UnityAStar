@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Reference Implementation/MapMaker.cs">
+    <Files>
+      <File FileName="Assets/Reference Implementation/MapMaker.cs" Line="43" Column="29" />
+      <File FileName="Assets/Reference Implementation/HexagonCell.cs" Line="34" Column="31" />
+      <File FileName="Assets/Reference Implementation/UserInteraction.cs" Line="13" Column="35" />
+      <File FileName="Assets/Reference Implementation/Illumin-Diffuse.shader" Line="7" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
